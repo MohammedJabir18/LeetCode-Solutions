@@ -11,4 +11,8 @@ A collection of solutions to LeetCode problems, written in Python to practice an
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammedJabir18/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/MohammedJabir18/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
